@@ -1,0 +1,5 @@
+print("Hoan thanh that tot cac mon tai truong ra truong dung tien do ")
+print("Xin thuc tap duoc tai 1 cong ty cong nghe voi vi tri backend sau do la tiep tuc len vi tri cao hon")
+print("Loai bo dc nhung cam do k lanh manh tap trung vao cham chut ban than hon ")
+print("Kiem duoc tien va dan tu nuoi song ban than dc")
+print("2026 thanh cong va tuyet voi voi nhung muc tieu de ra")
